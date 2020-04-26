@@ -1,2 +1,4 @@
 articles/images/Kaiware/kaiware_arthackday2018.png filter=lfs diff=lfs merge=lfs -text
 articles/images/Kaiware/Color/kaiware_arthackday2018.png filter=lfs diff=lfs merge=lfs -text
+images/chapters.png filter=lfs diff=lfs merge=lfs -text
+images/figures.png filter=lfs diff=lfs merge=lfs -text
