@@ -1,4 +1,4 @@
-# Unity Graphics Programming vol.1
+# Unity Graphics Programming vol.2
 
 ![Cover](https://raw.githubusercontent.com/IndieVisualLab/UnityGraphicsProgrammingBook2/master/images/cover.png)
 
