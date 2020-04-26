@@ -1,0 +1,19 @@
+PREDEF:
+  - Preface.re
+
+CHAPS:
+  - Nakamura.re
+  - fuqunaga.re
+  - kaiware007.re
+  - sugino.re
+  - oishi.re
+  - sakota.re
+  - takao.re
+  - aoyama.re
+  - SimpleImageEffect.re
+  - komietty.re
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
